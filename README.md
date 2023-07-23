@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Music Composition AI <br><br>🌱 I’m currently learning React.JS, Machine learning<br><br>👨‍💻 All of my projects are available at https://karthikreddy1.com <br><br>💬 Ask me about DSA , Machine learning , Web development<br><br>📫 How to reach me basupallykarthikreddy@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/14m1NwsB4iAb9HcxIZZHFVqR8-dbUurwG/view?usp=sharing<br><br>⚡ Fun fact I think My life has no Fun
+🔭 I’m currently working on Music Composition AI <br><br>🌱 I’m currently learning React.JS, Machine learning<br><br>👨‍💻 All of my projects are available at https://karthikreddy1.com <br><br>💬 Ask me about DSA , Machine learning , Web development<br><br>📫 How to reach me basupallykarthikreddy@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1SfUz1KND7iaCuKpn15ky5SbJAN19e4hk/view?usp=sharing<br><br>⚡ Fun fact I think My life has no Fun
 
 
 
