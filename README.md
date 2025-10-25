@@ -1,153 +1,44 @@
-## Hey 👋, I'm Karthik Reddy !  
-  
+### Hi,I'm Karthik 👋
 
-<a href="https://github.com/karthikreddy-7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/basupallykarthikreddy" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/karthikredddyy" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/karthikreddy77" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@basupallykarthikreddy" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
+By day, I'm a Software Engineer at [Nomura](https://www.nomura.com/), where I work on the big, complex distributed systems that keep financial markets moving. It's a world of Java, Spring Boot, Apache Camel, and making sure millions of transactions end up exactly where they're supposed to.
 
+By night (and, let's be honest, most weekends), I'm obsessed with Generative AI.
 
+My personal projects usually start with the question: **"This is tedious. Can I make a bot do it?"**
 
-### Glad to see you here!  
-### 🎓 Education:
+This has led me to build things like:
+- **`CodeRAG`**: A system to chat with your own codebase because `grep` just isn't cutting it.
+- **`CraftMyCV`**: An AI-powered resume builder, because writing about yourself is hard.
+- **`SonarAutoFix`**: A tool I built at work that uses LLMs to automatically fix code quality issues (I'm pretty proud of this one; it even won an award).
+- **`InfyTrade`**: A full-stack trading platform... before I realized I'm better at building tools than predicting markets.
 
- Bachelor of Technology (B.Tech) in Electronics & Communication Engineering
+---
 
-🏛️ Vellore Institute of Technology, Vellore, Tamil Nadu
+### What I'm focused on
 
-📚 CGPA: 8.6
-📅 Aug 2020 – Jun 2024
+I'm fascinated by the hard problems in software:
+* **Distributed Systems:** How to make lots of computers act like one... without them constantly arguing.
+* **Reliability:** Building things that don't break at 3 AM.
+* **Practical GenAI:** Moving beyond "cool demo" to "genuinely useful tool."
 
 
-### 💼  Experience:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthikredddyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basupallykarthikreddy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@basupallykarthikreddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basupallykarthikreddy@gmail.com) 
 
-👨‍💻 Front-End Engineer Intern 🏢 Wizergos, Bangalore, Karnataka 📆 May 2023 – Jul 2023
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=karthikreddy-7&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=karthikreddy-7&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddy-7&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Engineered a cutting-edge ReactJS chatbot application, reducing response time by 50% and increasing user retention by 15%.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-Integrated front-end with various APIs, optimizing data fetching and manipulation processes.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=karthikreddy-7&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
-### 🚀 Projects:
+---
+[![](https://visitcount.itsvg.in/api?id=karthikreddy-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### 📈 Telangana Growth Analysis (Aug 2023 – Sep 2023)
-
-Analyzed Telangana datasets using Power BI, uncovering key trends and patterns.
-Provided actionable recommendations for government policy development.
-
-#### 💬 Threads Clone Website (Aug 2023 – Sep 2023)
-
-Developed an interactive communication and data sharing web application.
-
-#### 💳 Smart Payment System (Dec 2022 – Apr 2023)
-
-Implemented an RFID-based payment collection system, improving transaction speed by 50-60%.
-
-### 🔧 Skills:
-
-💻 Web Development: HTML, CSS, JavaScript, ReactJS, Git, MySQL, PHP, MongoDB.
-
-📊 Data Science: Python (Pandas, Numpy, Keras), Machine Learning, Excel, PowerBI.
-
-📚 Other: Data Structures & Algorithms (DSA), Operating Systems (OS), Computer Networks, Database Management Systems (DBMS), Advanced Java.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🔭 I’m currently working on AGRI AI  
-  
-
-- 🌱 I’m currently learning Nextjs and Hugging Face  
-  
-
-- ❓ Ask me about anything related to MERN stack and data Science  
-  
-
-- ⚡ Fun fact: I think My life has no Fun  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<div style="overflow-x: hidden;">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td valign="top" style="width: 50%; padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=karthikreddy-7&show_icons=true&count_private=true&hide_border=true" style="width: 100%;" />
-      </td>
-      <td valign="top" style="width: 50%; padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddy-7&hide_border=true&layout=compact" style="width: 100%;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=karthikreddy-7&&style=flat-square)  
-  
-
-<br/>  
-
-<div align="left">
-            <a href="https://www.buymeacoffee.com/karthikredd" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>
-<br />
-
-----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
