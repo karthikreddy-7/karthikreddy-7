@@ -108,11 +108,18 @@ Then, on the side, I built **Sonar AutoFix** — an LLM-powered CI/CD remediatio
 ### 📊 GitHub stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikreddy-7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddy-7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikreddy-7&theme=tokyonight" width="82%"/>
 </p>
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=karthikreddy-7&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthikreddy-7&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthikreddy-7&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikreddy-7&theme=tokyonight"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=karthikreddy-7&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikreddy-7&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 </p>
 
 ---
