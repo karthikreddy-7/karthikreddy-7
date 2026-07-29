@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Karthik 👋</h1>
 
 <p align="center">
-  <b>AI Engineer @ Nomura AI Center of Excellence</b> &nbsp;·&nbsp; Backend engineer who built his way into AI<br/>
+  <b>AI Engineer @ Nomura AI Center of Excellence</b> &nbsp;·&nbsp; <br/>
   <sub>Production LLM systems — RAG · Agentic AI · MCP — on a foundation of high-throughput Java / Spring Boot backends</sub>
 </p>
 
