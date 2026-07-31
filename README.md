@@ -41,7 +41,7 @@ Then, on the side, I built **Sonar AutoFix** — an LLM-powered CI/CD remediatio
 
 ### 🛠️ Currently building
 
-**[Choreo](https://github.com/choreo-ai/choreo)** — open-source production layer for LangGraph. Multi-agent AI systems with budgets, guardrails, retries, evals, and observability. Early, building in public. *Multi-agent systems, in production.*
+**[ChoreoAI](https://github.com/choreo-ai/choreoai)** (`choreoai`) — open-source production layer for LangGraph. Multi-agent AI systems with budgets, guardrails, retries, evals, and observability. Companion CLI: [choreoai-cli](https://github.com/choreo-ai/choreoai-cli). Early, building in public. *Multi-agent systems, in production.*
 
 <p align="center">
   Looking for Backend Engineer and AI Engineer roles in Hyderabad or Remote-India.
