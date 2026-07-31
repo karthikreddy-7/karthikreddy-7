@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Karthik 👋</h1>
 
 <p align="center">
-  <b>AI Engineer @ Nomura AI Center of Excellence</b> &nbsp;·&nbsp; <br/>
-  <sub>Production LLM systems — RAG · Agentic AI · MCP — on a foundation of high-throughput Java / Spring Boot backends</sub>
+  Software engineer at Nomura. I build backend systems and production AI — high-throughput Java services, RAG, agents, and MCP tool integrations.
 </p>
 
 <p align="center">
@@ -43,6 +42,10 @@ Then, on the side, I built **Sonar AutoFix** — an LLM-powered CI/CD remediatio
 ### 🛠️ Currently building
 
 **[Choreo](https://github.com/choreo-ai/choreo)** — open-source production layer for LangGraph. Multi-agent AI systems with budgets, guardrails, retries, evals, and observability. Early, building in public. *Multi-agent systems, in production.*
+
+<p align="center">
+  Looking for Backend Engineer and AI Engineer roles in Hyderabad or Remote-India.
+</p>
 
 ---
 
@@ -128,8 +131,3 @@ Then, on the side, I built **Sonar AutoFix** — an LLM-powered CI/CD remediatio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikreddy-7&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 </p>
 
----
-
-<p align="center">
-  <sub>📍 Based in India · relocating to <b>Hyderabad</b> · open to <b>Backend Engineer</b> and <b>AI Engineer</b> roles — reach me on <a href="https://www.linkedin.com/in/basupallykarthikreddy/">LinkedIn</a> or <a href="mailto:basupallykarthikreddy@gmail.com">email</a>.</sub>
-</p>
