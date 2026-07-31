@@ -40,6 +40,12 @@ Then, on the side, I built **Sonar AutoFix** — an LLM-powered CI/CD remediatio
 
 ---
 
+### 🛠️ Currently building
+
+**[Choreo](https://github.com/choreo-ai/choreo)** — open-source production layer for LangGraph. Multi-agent AI systems with budgets, guardrails, retries, evals, and observability. Early, building in public. *Multi-agent systems, in production.*
+
+---
+
 ### 🚀 Featured projects
 
 | Project | What it is |
