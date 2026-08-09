@@ -18,7 +18,7 @@
 
 I build **AI systems that real users depend on — not demos.**
 
-Today I work in **Nomura's AI Center of Excellence** on **Chinou**, the firm's enterprise Generative AI platform: governed access to LLMs on **AWS Bedrock** for **~10,000–15,000 daily active users**, with security, governance and observability built in. When I joined it was a basic chatbot — I helped turn it into a platform:
+Today I work on an **enterprise Generative AI platform** at **Nomura**: governed access to LLMs on **AWS Bedrock** for **~10,000–15,000 daily active users**, with security, governance and observability built in. When I joined it was a basic chatbot — I helped turn it into a platform:
 
 - 🔎 **Enterprise RAG** over ~10,000 indexed documents — personal + org-wide vector stores, with the full ingestion pipeline: parsing, chunking, embeddings, vector indexing, semantic retrieval and context ranking.
 - 🤖 **Agent Mode** — multi-step agentic workflows via **Model Context Protocol (MCP)**, with tool-calling pipelines and agent orchestration on **LangChain** & **LangGraph**.
@@ -33,7 +33,7 @@ I started at Nomura as a **backend engineer in Global Markets IT** — **Java, S
 - 🚪 Built a reusable **gateway framework** (Template pattern) for enterprise integration, benchmarked at **~462 msg/s** and adopted across multiple downstream services.
 - 🛠️ Wrote a **Python automation framework** over the Jira & GitLab APIs that performed automated code remediation across **20+ Spring Boot microservices**.
 
-Then, on the side, I built **Sonar AutoFix** — an LLM-powered CI/CD remediation platform that reads SonarQube findings and opens merge requests fixing them. It went into production, cleared **~40% of our SonarQube issues**, won a **quarterly recognition award (Nomura Star)**, and earned me the transfer into the AI Center of Excellence.
+Then, on the side, I built **Sonar AutoFix** — an LLM-powered CI/CD remediation platform that reads SonarQube findings and opens merge requests fixing them. It went into production, cleared **~40% of our SonarQube issues**, won a **quarterly recognition award (Nomura Star)**, and earned me the move onto AI platform work full time.
 
 > **That arc is the point:** a backend engineer who built his way into AI. The AI work I ship is production infrastructure — real users, real latency budgets, real governance.
 
