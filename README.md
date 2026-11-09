@@ -37,6 +37,13 @@ governance around LLMs, not just the prompt.
 
 ---
 
+### ✍️ Latest writing
+
+- **[Designing Agent Hierarchies in VS Code Copilot](https://medium.com/@basupallykarthikreddy/designing-agent-hierarchies-in-vs-code-copilot-212d70faf4fc)** — why one agent with every tool is a liability, and how a hierarchy of narrow agents (orchestrators, layered context, least-privilege tools, human approval) fixes it. Code: [Agentic-Orchestration-Harness](https://github.com/karthikreddy-7/Agentic-Orchestration-Harness).
+- **[AI Engineering Roadmap: A Free Playbook for Builders](https://medium.com/@basupallykarthikreddy/ai-engineering-roadmap-a-free-playbook-for-builders-51b912d9b8b1)**
+
+---
+
 ### 🚀 Featured projects
 
 | Project | What it is |
